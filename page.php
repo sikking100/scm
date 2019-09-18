@@ -44,7 +44,11 @@
             include "page/kasir/chart.php";
         } elseif ($page == 'cetak') {
             include "page/kasir/cetak.php";
-        } 
+        } elseif ($page == 'tabellaporan') {
+            include "page/kasir/index.php";
+        } elseif ($page == 'tampilkanlaporan') {
+            include "page/kasir/tabellaporan.php";
+        }
 
         //produk supplier
         elseif ($page == 'produk') {

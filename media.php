@@ -103,6 +103,7 @@
         </a>
         <div id="collapseUtilities" class="collapse" aria-labelledby="headingUtilities" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
+            <a class="collapse-item" href="media.php?page=tabellaporan">Tabel Laporan</a>
             <a class="collapse-item" href="media.php?page=laporankasir">Grafik Laporan</a>
             <a class="collapse-item" href="media.php?page=cetak">Cetak Laporan</a>
           </div>
